@@ -1,6 +1,6 @@
-package com.eidiego.stallionbackend.domain.entities.step;
+package com.eidiego.stallionbackend.domain.step;
 
-import com.eidiego.stallionbackend.domain.entities.job.Job;
+import com.eidiego.stallionbackend.domain.job.Job;
 import jakarta.persistence.*;
 import lombok.Data;
 
